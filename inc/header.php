@@ -84,7 +84,7 @@
             </div>
 
             <!-- User Info -->
-            <div class="px-6 py-4 border-b border-gray-100">
+            <!-- <div class="px-6 py-4 border-b border-gray-100">
                 <div class="flex items-center gap-3">
                     <div class="h-10 w-10 rounded-full bg-gradient-to-br from-primary-400 to-primary-600 flex items-center justify-center">
                         <span class="text-white font-semibold text-sm">AD</span>
@@ -95,7 +95,7 @@
                     </div>
                     <div class="h-2 w-2 rounded-full bg-green-500 animate-pulse" title="Online"></div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- Navigation Menu -->
             <nav class="flex-1 p-4 space-y-2">
