@@ -83,19 +83,7 @@
                 </div>
             </div>
 
-            <!-- User Info -->
-            <!-- <div class="px-6 py-4 border-b border-gray-100">
-                <div class="flex items-center gap-3">
-                    <div class="h-10 w-10 rounded-full bg-gradient-to-br from-primary-400 to-primary-600 flex items-center justify-center">
-                        <span class="text-white font-semibold text-sm">AD</span>
-                    </div>
-                    <div class="flex-1 min-w-0">
-                        <div class="font-medium text-gray-800 truncate">Admin Toko</div>
-                        <div class="text-xs text-gray-500 truncate">admin@tokoroti.com</div>
-                    </div>
-                    <div class="h-2 w-2 rounded-full bg-green-500 animate-pulse" title="Online"></div>
-                </div>
-            </div> -->
+
 
             <!-- Navigation Menu -->
             <nav class="flex-1 p-4 space-y-2">
@@ -168,14 +156,7 @@
             </nav>
 
             <!-- Footer -->
-            <div class="p-4 border-t border-gray-100">
-                <div class="bg-gray-50 rounded-xl p-4 text-center">
-                    <div class="text-xs text-gray-500 mb-2">Sistem POS v2.0</div>
-                    <div class="text-[10px] text-gray-400">
-                        © <span id="yMini"><?= date('Y') ?></span> Toko Roti Bahagia
-                    </div>
-                </div>
-            </div>
+
         </aside>
 
         <!-- Main Content Area -->
